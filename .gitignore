@@ -1,0 +1,14 @@
+.idea
+node_modules
+
+cdk-stack/*.js
+cdk-stack/*.d.ts
+
+cdk.out
+cfn-template.yaml
+
+.env
+
+coverage
+
+.DS_Store

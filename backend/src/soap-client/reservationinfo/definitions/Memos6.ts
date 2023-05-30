@@ -1,0 +1,11 @@
+import { Memo } from "./Memo";
+
+/**
+ * Memos
+ * @targetNSAlias `ns6`
+ * @targetNamespace `http://namespace.tui.de/bw-lib/service.api.common/schemas/reservation-types.xsd`
+ */
+export interface Memos6 {
+    /** Memo */
+    Memo?: Memo;
+}

@@ -1,0 +1,7 @@
+{
+  "verbose": false,
+  "ignore": [".git", "node_modules/**/node_modules", "*.spec.js"],
+  "ext": "js,json",
+  "watch": ["src/", "dev.js", "../.env"],
+  "delay": 100
+}

@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "target": "ES2018",
+    "module": "commonjs",
+    "lib": ["es2018"],
+    "declaration": false,
+    "strict": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": false,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "strictPropertyInitialization": false,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "types": ["jest", "node"],
+    "typeRoots": ["./node_modules/@types"]
+  },
+  "exclude": ["node_modules", "cdk.out"]
+}

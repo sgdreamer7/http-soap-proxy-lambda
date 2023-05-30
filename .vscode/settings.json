@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "**/src/**/*.d.ts": true,
+    "**/src/**/*.js": true,
+    "**/backend/dev.d.ts": true,
+    "**/backend/dev.js": true,
+    "**/cdk-stack/**/*.d.ts": true,
+    "**/cdk-stack/**/*.js": true
+  }
+}

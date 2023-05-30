@@ -1,0 +1,4 @@
+
+/** PaymentType */
+export interface PaymentType {
+}

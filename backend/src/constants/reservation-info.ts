@@ -1,0 +1,4 @@
+// eslint-disable-next-line max-len
+export const RESERVATION_INFO_SOAP_WSDL_URL = process.env.RESERVATION_INFO_SOAP_WSDL_URL;
+export const RESERVATION_INFO_SERVICE_URL = process.env.RESERVATION_INFO_SERVICE_URL;
+export const RESERVATION_SERVICE_API_KEY = process.env.RESERVATION_SERVICE_API_KEY;

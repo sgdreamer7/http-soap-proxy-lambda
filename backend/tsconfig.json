@@ -1,0 +1,9 @@
+{
+  "extends": "../tsconfig.json",
+  "include": ["./src/**/*.ts", "./src/types.d.ts"],
+  "compilerOptions": {
+    "lib": ["es2020", "es2021"],
+    "target": "es2020",
+    "forceConsistentCasingInFileNames": true
+  }
+}

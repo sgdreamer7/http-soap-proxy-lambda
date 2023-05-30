@@ -1,0 +1,11 @@
+import { $attributes20 } from "./$attributes20";
+
+/**
+ * CustomerNoneSelfBilling
+ * @targetNSAlias `ns6`
+ * @targetNamespace `http://namespace.tui.de/bw-lib/service.api.common/schemas/reservation-types.xsd`
+ */
+export interface CustomerNoneSelfBilling {
+    /** $attributes */
+    $attributes?: $attributes20;
+}

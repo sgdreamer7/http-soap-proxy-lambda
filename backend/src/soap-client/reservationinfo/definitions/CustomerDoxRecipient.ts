@@ -1,0 +1,4 @@
+
+/** CustomerDoxRecipient */
+export interface CustomerDoxRecipient {
+}

@@ -1,0 +1,4 @@
+
+/** CardValidFromDate */
+export interface CardValidFromDate {
+}

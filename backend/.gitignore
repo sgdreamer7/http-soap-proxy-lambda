@@ -1,0 +1,5 @@
+coverage
+
+*.js
+*.d.ts
+!src/global.d.ts
